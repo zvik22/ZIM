@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="3" failed="1" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-03-10T09:21:45Z" name="Default suite" finished-at="2021-03-10T09:21:57Z" duration-ms="11639">
+    <groups>
+      <group name="sanity">
+        <method signature="SanityTests.tableTest(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:1, instance:Tests.SanityTests@57fd91c9]" name="tableTest" class="Tests.SanityTests"/>
+      </group> <!-- sanity -->
+    </groups>
+    <test started-at="2021-03-10T09:21:45Z" name="Default test" finished-at="2021-03-10T09:21:57Z" duration-ms="11639">
+      <class name="Tests.SanityTests">
+        <test-method is-config="true" signature="Test_Prepration()[pri:0, instance:Tests.SanityTests@57fd91c9]" started-at="2021-03-10T09:21:45Z" name="Test_Prepration" finished-at="2021-03-10T09:21:50Z" duration-ms="4877" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_Prepration -->
+        <test-method is-config="true" signature="Before_Method()[pri:0, instance:Tests.SanityTests@57fd91c9]" started-at="2021-03-10T09:21:52Z" name="Before_Method" finished-at="2021-03-10T09:21:52Z" duration-ms="36" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Before_Method -->
+        <test-method signature="tableTest(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:1, instance:Tests.SanityTests@57fd91c9]" started-at="2021-03-10T09:21:52Z" name="tableTest" data-provider="getDataForTableTest" finished-at="2021-03-10T09:21:52Z" duration-ms="167" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[1]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Alfreds Futterkiste]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[2]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Maria Anders]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tableTest -->
+        <test-method is-config="true" signature="Exit_Clean_After_Test()[pri:0, instance:Tests.SanityTests@57fd91c9]" started-at="2021-03-10T09:21:52Z" name="Exit_Clean_After_Test" finished-at="2021-03-10T09:21:52Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Exit_Clean_After_Test -->
+        <test-method is-config="true" signature="Before_Method()[pri:0, instance:Tests.SanityTests@57fd91c9]" started-at="2021-03-10T09:21:52Z" name="Before_Method" finished-at="2021-03-10T09:21:52Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Before_Method -->
+        <test-method signature="tableTest(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:1, instance:Tests.SanityTests@57fd91c9]" started-at="2021-03-10T09:21:52Z" name="tableTest" data-provider="getDataForTableTest" finished-at="2021-03-10T09:21:52Z" duration-ms="147" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[2]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Maria Anders]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[1]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Alfreds Futterkiste]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tableTest -->
+        <test-method is-config="true" signature="Exit_Clean_After_Test()[pri:0, instance:Tests.SanityTests@57fd91c9]" started-at="2021-03-10T09:21:52Z" name="Exit_Clean_After_Test" finished-at="2021-03-10T09:21:52Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Exit_Clean_After_Test -->
+        <test-method signature="tableTest(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:1, instance:Tests.SanityTests@57fd91c9]" started-at="2021-03-10T09:21:52Z" name="tableTest" data-provider="getDataForTableTest" finished-at="2021-03-10T09:21:52Z" duration-ms="113" status="FAIL">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[3]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Germany]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[2]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Roland Mendel]]>
+              </value>
+            </param>
+          </params>
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[Checked condition is False]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: Checked condition is False
+at org.testng.Assert.fail(Assert.java:96)
+at Tests.SanityTests.tableTest(SanityTests.java:74)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:564)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:124)
+at org.testng.internal.Invoker.invokeMethod(Invoker.java:580)
+at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:716)
+at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:988)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+at org.testng.TestRunner.privateRun(TestRunner.java:648)
+at org.testng.TestRunner.run(TestRunner.java:505)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:455)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:450)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:415)
+at org.testng.SuiteRunner.run(SuiteRunner.java:364)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:84)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1208)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1137)
+at org.testng.TestNG.runSuites(TestNG.java:1049)
+at org.testng.TestNG.run(TestNG.java:1017)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:114)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tableTest -->
+        <test-method is-config="true" signature="Before_Method()[pri:0, instance:Tests.SanityTests@57fd91c9]" started-at="2021-03-10T09:21:52Z" name="Before_Method" finished-at="2021-03-10T09:21:52Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Before_Method -->
+        <test-method signature="tableTest(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:1, instance:Tests.SanityTests@57fd91c9]" started-at="2021-03-10T09:21:52Z" name="tableTest" data-provider="getDataForTableTest" finished-at="2021-03-10T09:21:52Z" duration-ms="182" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[1]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Laughing Bacchus Winecellars]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[3]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Canada]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tableTest -->
+        <test-method is-config="true" signature="Exit_Clean_After_Test()[pri:0, instance:Tests.SanityTests@57fd91c9]" started-at="2021-03-10T09:21:52Z" name="Exit_Clean_After_Test" finished-at="2021-03-10T09:21:52Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Exit_Clean_After_Test -->
+        <test-method is-config="true" signature="Before_Method()[pri:0, instance:Tests.SanityTests@57fd91c9]" started-at="2021-03-10T09:21:52Z" name="Before_Method" finished-at="2021-03-10T09:21:52Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Before_Method -->
+        <test-method is-config="true" signature="Exit_Clean_After_Test()[pri:0, instance:Tests.SanityTests@57fd91c9]" started-at="2021-03-10T09:21:52Z" name="Exit_Clean_After_Test" finished-at="2021-03-10T09:21:52Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Exit_Clean_After_Test -->
+        <test-method is-config="true" signature="End_Exectuion()[pri:0, instance:Tests.SanityTests@57fd91c9]" started-at="2021-03-10T09:21:52Z" name="End_Exectuion" finished-at="2021-03-10T09:21:57Z" duration-ms="4744" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- End_Exectuion -->
+      </class> <!-- Tests.SanityTests -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

@@ -1,0 +1,355 @@
+2021-03-10 10:02:38.408 INFO (thread-id:1) Framework.ExcelUtils.getTableArray (line:95) -1
+2021-03-10 10:02:38.475 INFO (thread-id:1) Framework.ExcelUtils.getTableArray (line:95) -Alfreds Futterkiste
+2021-03-10 10:02:38.480 INFO (thread-id:1) Framework.ExcelUtils.getTableArray (line:95) -2
+2021-03-10 10:02:38.490 INFO (thread-id:1) Framework.ExcelUtils.getTableArray (line:95) -Maria Anders
+2021-03-10 10:02:38.547 INFO (thread-id:1) Framework.GeneralUtility.getWebDriver (line:69) -Browser: chrome, Start page: https://www.w3schools.com/html/html_tables.asp
+2021-03-10 10:02:51.868 INFO (thread-id:1) Tests.SanityTests.tableTest (line:56) -Started tableTest with inputs: 1Alfreds Futterkiste2Maria Anders
+2021-03-10 10:03:44.279 INFO (thread-id:1) Framework.ExcelUtils.getTableArray (line:95) -1
+2021-03-10 10:03:44.412 INFO (thread-id:1) Framework.ExcelUtils.getTableArray (line:95) -Alfreds Futterkiste
+2021-03-10 10:03:44.427 INFO (thread-id:1) Framework.ExcelUtils.getTableArray (line:95) -2
+2021-03-10 10:03:44.430 INFO (thread-id:1) Framework.ExcelUtils.getTableArray (line:95) -Maria Anders
+2021-03-10 10:03:44.528 INFO (thread-id:1) Framework.GeneralUtility.getWebDriver (line:69) -Browser: chrome, Start page: https://www.w3schools.com/html/html_tables.asp
+2021-03-10 10:03:58.480 INFO (thread-id:1) Tests.SanityTests.tableTest (line:56) -Started tableTest with inputs: 1,Alfreds Futterkiste,2,Maria Anders
+2021-03-10 10:04:00.233 INFO (thread-id:1) Tests.SanityTests.tableTest (line:66) -Test Failed
+2021-03-10 10:06:04.597 INFO (thread-id:1) Framework.ExcelUtils.getTableArray (line:95) -1
+2021-03-10 10:06:04.677 INFO (thread-id:1) Framework.ExcelUtils.getTableArray (line:95) -Alfreds Futterkiste
+2021-03-10 10:06:04.680 INFO (thread-id:1) Framework.ExcelUtils.getTableArray (line:95) -2
+2021-03-10 10:06:04.697 INFO (thread-id:1) Framework.ExcelUtils.getTableArray (line:95) -Maria Anders
+2021-03-10 10:07:13.140 INFO (thread-id:1) Framework.ExcelUtils.getTableArray (line:95) -1
+2021-03-10 10:07:13.208 INFO (thread-id:1) Framework.ExcelUtils.getTableArray (line:95) -Alfreds Futterkiste
+2021-03-10 10:07:13.211 INFO (thread-id:1) Framework.ExcelUtils.getTableArray (line:95) -2
+2021-03-10 10:07:13.212 INFO (thread-id:1) Framework.ExcelUtils.getTableArray (line:95) -Maria Anders
+2021-03-10 10:07:13.281 INFO (thread-id:1) Framework.GeneralUtility.getWebDriver (line:69) -Browser: chrome, Start page: https://www.w3schools.com/html/html_tables.asp
+2021-03-10 10:07:32.819 INFO (thread-id:1) Tests.SanityTests.tableTest (line:56) -Started tableTest with inputs: 1,Alfreds Futterkiste,2,Maria Anders
+2021-03-10 10:16:57.264 INFO (thread-id:1) Framework.GeneralUtility.getWebDriver (line:69) -Browser: chrome, Start page: https://www.w3schools.com/html/html_tables.asp
+2021-03-10 10:18:42.800 INFO (thread-id:1) Framework.ExcelUtils.getTableArray (line:95) -1
+2021-03-10 10:18:42.809 INFO (thread-id:1) Framework.ExcelUtils.getTableArray (line:95) -Alfreds Futterkiste
+2021-03-10 10:18:42.813 INFO (thread-id:1) Framework.ExcelUtils.getTableArray (line:95) -2
+2021-03-10 10:18:42.815 INFO (thread-id:1) Framework.ExcelUtils.getTableArray (line:95) -Maria Anders
+2021-03-10 10:18:42.823 INFO (thread-id:1) Framework.ExcelUtils.getTableArray (line:95) -2
+2021-03-10 10:18:42.824 INFO (thread-id:1) Framework.ExcelUtils.getTableArray (line:95) -Maria Anders
+2021-03-10 10:18:42.827 INFO (thread-id:1) Framework.ExcelUtils.getTableArray (line:95) -1
+2021-03-10 10:18:42.831 INFO (thread-id:1) Framework.ExcelUtils.getTableArray (line:95) -Alfreds Futterkiste
+2021-03-10 10:18:42.833 INFO (thread-id:1) Framework.ExcelUtils.getTableArray (line:95) -3
+2021-03-10 10:18:42.839 INFO (thread-id:1) Framework.ExcelUtils.getTableArray (line:95) -Germany
+2021-03-10 10:18:42.843 INFO (thread-id:1) Framework.ExcelUtils.getTableArray (line:95) -2
+2021-03-10 10:18:42.847 INFO (thread-id:1) Framework.ExcelUtils.getTableArray (line:95) -Roland Mendel
+2021-03-10 10:18:42.849 INFO (thread-id:1) Framework.ExcelUtils.getTableArray (line:95) -1
+2021-03-10 10:18:42.850 INFO (thread-id:1) Framework.ExcelUtils.getTableArray (line:95) -Laughing Bacchus Winecellars
+2021-03-10 10:18:42.860 INFO (thread-id:1) Framework.ExcelUtils.getTableArray (line:95) -3
+2021-03-10 10:18:42.861 INFO (thread-id:1) Framework.ExcelUtils.getTableArray (line:95) -Canada
+2021-03-10 10:18:43.145 INFO (thread-id:1) Tests.SanityTests.tableTest (line:59) -Started tableTest with inputs: 1,Alfreds Futterkiste,2,Maria Anders
+2021-03-10 10:18:44.037 INFO (thread-id:1) Pages.TablesPage.verifyTableCellText (line:56) -table's target column actual value:Maria Anders
+2021-03-10 10:18:44.038 INFO (thread-id:1) Pages.TablesPage.verifyTableCellText (line:57) -expected value:Maria Anders
+2021-03-10 10:18:44.047 INFO (thread-id:1) Tests.SanityTests.tableTest (line:59) -Started tableTest with inputs: 2,Maria Anders,1,Alfreds Futterkiste
+2021-03-10 10:18:44.449 INFO (thread-id:1) Pages.TablesPage.verifyTableCellText (line:56) -table's target column actual value:Alfreds Futterkiste
+2021-03-10 10:18:44.450 INFO (thread-id:1) Pages.TablesPage.verifyTableCellText (line:57) -expected value:Alfreds Futterkiste
+2021-03-10 10:18:44.458 INFO (thread-id:1) Tests.SanityTests.tableTest (line:59) -Started tableTest with inputs: 3,Germany,2,Roland Mendel
+2021-03-10 10:18:44.824 INFO (thread-id:1) Pages.TablesPage.verifyTableCellText (line:56) -table's target column actual value:Maria Anders
+2021-03-10 10:18:44.825 INFO (thread-id:1) Pages.TablesPage.verifyTableCellText (line:57) -expected value:Roland Mendel
+2021-03-10 10:18:44.828 INFO (thread-id:1) Tests.SanityTests.tableTest (line:69) -Test Failed
+2021-03-10 10:18:44.843 INFO (thread-id:1) Tests.SanityTests.tableTest (line:59) -Started tableTest with inputs: 1,Laughing Bacchus Winecellars,3,Canada
+2021-03-10 10:18:45.305 INFO (thread-id:1) Pages.TablesPage.verifyTableCellText (line:56) -table's target column actual value:Canada
+2021-03-10 10:18:45.306 INFO (thread-id:1) Pages.TablesPage.verifyTableCellText (line:57) -expected value:Canada
+2021-03-10 10:18:46.821 INFO (thread-id:1) Framework.GeneralUtility.tearDown (line:203) -Going to tear down driver
+2021-03-10 10:24:30.432 INFO (thread-id:1) Framework.GeneralUtility.getWebDriver (line:69) -Browser: chrome, Start page: https://www.w3schools.com/html/html_tables.asp
+2021-03-10 10:24:38.068 INFO (thread-id:1) Framework.ExcelUtils.getTableArray (line:95) -1
+2021-03-10 10:24:38.072 INFO (thread-id:1) Framework.ExcelUtils.getTableArray (line:95) -Alfreds Futterkiste
+2021-03-10 10:24:38.073 INFO (thread-id:1) Framework.ExcelUtils.getTableArray (line:95) -2
+2021-03-10 10:24:38.074 INFO (thread-id:1) Framework.ExcelUtils.getTableArray (line:95) -Maria Anders
+2021-03-10 10:24:38.075 INFO (thread-id:1) Framework.ExcelUtils.getTableArray (line:95) -2
+2021-03-10 10:24:38.076 INFO (thread-id:1) Framework.ExcelUtils.getTableArray (line:95) -Maria Anders
+2021-03-10 10:24:38.076 INFO (thread-id:1) Framework.ExcelUtils.getTableArray (line:95) -1
+2021-03-10 10:24:38.077 INFO (thread-id:1) Framework.ExcelUtils.getTableArray (line:95) -Alfreds Futterkiste
+2021-03-10 10:24:38.078 INFO (thread-id:1) Framework.ExcelUtils.getTableArray (line:95) -3
+2021-03-10 10:24:38.078 INFO (thread-id:1) Framework.ExcelUtils.getTableArray (line:95) -Germany
+2021-03-10 10:24:38.079 INFO (thread-id:1) Framework.ExcelUtils.getTableArray (line:95) -2
+2021-03-10 10:24:38.080 INFO (thread-id:1) Framework.ExcelUtils.getTableArray (line:95) -Roland Mendel
+2021-03-10 10:24:38.081 INFO (thread-id:1) Framework.ExcelUtils.getTableArray (line:95) -1
+2021-03-10 10:24:38.081 INFO (thread-id:1) Framework.ExcelUtils.getTableArray (line:95) -Laughing Bacchus Winecellars
+2021-03-10 10:24:38.082 INFO (thread-id:1) Framework.ExcelUtils.getTableArray (line:95) -3
+2021-03-10 10:24:38.083 INFO (thread-id:1) Framework.ExcelUtils.getTableArray (line:95) -Canada
+2021-03-10 10:24:38.136 INFO (thread-id:1) Tests.SanityTests.tableTest (line:59) -Started tableTest with inputs: 1,Alfreds Futterkiste,2,Maria Anders
+2021-03-10 10:24:38.331 INFO (thread-id:1) Pages.TablesPage.verifyTableCellText (line:56) -table's target column actual value:Maria Anders
+2021-03-10 10:24:38.332 INFO (thread-id:1) Pages.TablesPage.verifyTableCellText (line:57) -expected value:Maria Anders
+2021-03-10 10:24:38.337 INFO (thread-id:1) Tests.SanityTests.tableTest (line:59) -Started tableTest with inputs: 2,Maria Anders,1,Alfreds Futterkiste
+2021-03-10 10:24:38.457 INFO (thread-id:1) Pages.TablesPage.verifyTableCellText (line:56) -table's target column actual value:Alfreds Futterkiste
+2021-03-10 10:24:38.458 INFO (thread-id:1) Pages.TablesPage.verifyTableCellText (line:57) -expected value:Alfreds Futterkiste
+2021-03-10 10:24:38.462 INFO (thread-id:1) Tests.SanityTests.tableTest (line:59) -Started tableTest with inputs: 3,Germany,2,Roland Mendel
+2021-03-10 10:24:38.565 INFO (thread-id:1) Pages.TablesPage.verifyTableCellText (line:56) -table's target column actual value:Maria Anders
+2021-03-10 10:24:38.565 INFO (thread-id:1) Pages.TablesPage.verifyTableCellText (line:57) -expected value:Roland Mendel
+2021-03-10 10:24:38.566 INFO (thread-id:1) Tests.SanityTests.tableTest (line:69) -Test Failed
+2021-03-10 10:24:38.577 INFO (thread-id:1) Tests.SanityTests.tableTest (line:59) -Started tableTest with inputs: 1,Laughing Bacchus Winecellars,3,Canada
+2021-03-10 10:24:38.675 INFO (thread-id:1) Pages.TablesPage.verifyTableCellText (line:56) -table's target column actual value:Canada
+2021-03-10 10:24:38.675 INFO (thread-id:1) Pages.TablesPage.verifyTableCellText (line:57) -expected value:Canada
+2021-03-10 10:24:38.677 INFO (thread-id:1) Framework.GeneralUtility.tearDown (line:203) -Going to tear down driver
+2021-03-10 10:28:46.805 INFO (thread-id:1) Framework.GeneralUtility.getWebDriver (line:69) -Browser: chrome, Start page: https://www.w3schools.com/html/html_tables.asp
+2021-03-10 10:28:52.278 INFO (thread-id:1) Framework.ExcelUtils.getTableArray (line:95) -1
+2021-03-10 10:28:52.282 INFO (thread-id:1) Framework.ExcelUtils.getTableArray (line:95) -Alfreds Futterkiste
+2021-03-10 10:28:52.284 INFO (thread-id:1) Framework.ExcelUtils.getTableArray (line:95) -2
+2021-03-10 10:28:52.288 INFO (thread-id:1) Framework.ExcelUtils.getTableArray (line:95) -Maria Anders
+2021-03-10 10:28:52.289 INFO (thread-id:1) Framework.ExcelUtils.getTableArray (line:95) -2
+2021-03-10 10:28:52.291 INFO (thread-id:1) Framework.ExcelUtils.getTableArray (line:95) -Maria Anders
+2021-03-10 10:28:52.296 INFO (thread-id:1) Framework.ExcelUtils.getTableArray (line:95) -1
+2021-03-10 10:28:52.297 INFO (thread-id:1) Framework.ExcelUtils.getTableArray (line:95) -Alfreds Futterkiste
+2021-03-10 10:28:52.297 INFO (thread-id:1) Framework.ExcelUtils.getTableArray (line:95) -3
+2021-03-10 10:28:52.298 INFO (thread-id:1) Framework.ExcelUtils.getTableArray (line:95) -Germany
+2021-03-10 10:28:52.299 INFO (thread-id:1) Framework.ExcelUtils.getTableArray (line:95) -2
+2021-03-10 10:28:52.300 INFO (thread-id:1) Framework.ExcelUtils.getTableArray (line:95) -Roland Mendel
+2021-03-10 10:28:52.301 INFO (thread-id:1) Framework.ExcelUtils.getTableArray (line:95) -1
+2021-03-10 10:28:52.301 INFO (thread-id:1) Framework.ExcelUtils.getTableArray (line:95) -Laughing Bacchus Winecellars
+2021-03-10 10:28:52.302 INFO (thread-id:1) Framework.ExcelUtils.getTableArray (line:95) -3
+2021-03-10 10:28:52.303 INFO (thread-id:1) Framework.ExcelUtils.getTableArray (line:95) -Canada
+2021-03-10 10:28:52.381 INFO (thread-id:1) Tests.SanityTests.tableTest (line:59) -Started tableTest with inputs: 1,Alfreds Futterkiste,2,Maria Anders
+2021-03-10 10:28:52.573 INFO (thread-id:1) Pages.TablesPage.verifyTableCellText (line:56) -table's target column actual value:Maria Anders
+2021-03-10 10:28:52.573 INFO (thread-id:1) Pages.TablesPage.verifyTableCellText (line:57) -expected value:Maria Anders
+2021-03-10 10:28:52.578 INFO (thread-id:1) Tests.SanityTests.tableTest (line:59) -Started tableTest with inputs: 2,Maria Anders,1,Alfreds Futterkiste
+2021-03-10 10:28:52.713 INFO (thread-id:1) Pages.TablesPage.verifyTableCellText (line:56) -table's target column actual value:Alfreds Futterkiste
+2021-03-10 10:28:52.713 INFO (thread-id:1) Pages.TablesPage.verifyTableCellText (line:57) -expected value:Alfreds Futterkiste
+2021-03-10 10:28:52.717 INFO (thread-id:1) Tests.SanityTests.tableTest (line:59) -Started tableTest with inputs: 3,Germany,2,Roland Mendel
+2021-03-10 10:28:52.815 INFO (thread-id:1) Pages.TablesPage.verifyTableCellText (line:56) -table's target column actual value:Maria Anders
+2021-03-10 10:28:52.816 INFO (thread-id:1) Pages.TablesPage.verifyTableCellText (line:57) -expected value:Roland Mendel
+2021-03-10 10:28:52.817 INFO (thread-id:1) Tests.SanityTests.tableTest (line:69) -Test Failed
+2021-03-10 10:28:52.825 INFO (thread-id:1) Tests.SanityTests.tableTest (line:59) -Started tableTest with inputs: 1,Laughing Bacchus Winecellars,3,Canada
+2021-03-10 10:28:52.945 INFO (thread-id:1) Pages.TablesPage.verifyTableCellText (line:56) -table's target column actual value:Canada
+2021-03-10 10:28:52.945 INFO (thread-id:1) Pages.TablesPage.verifyTableCellText (line:57) -expected value:Canada
+2021-03-10 10:33:05.206 INFO (thread-id:1) Framework.GeneralUtility.getWebDriver (line:69) -Browser: chrome, Start page: https://www.w3schools.com/html/html_tables.asp
+2021-03-10 10:33:15.427 INFO (thread-id:1) Framework.ExcelUtils.getTableArray (line:95) -1
+2021-03-10 10:33:15.430 INFO (thread-id:1) Framework.ExcelUtils.getTableArray (line:95) -Alfreds Futterkiste
+2021-03-10 10:33:15.431 INFO (thread-id:1) Framework.ExcelUtils.getTableArray (line:95) -2
+2021-03-10 10:33:15.431 INFO (thread-id:1) Framework.ExcelUtils.getTableArray (line:95) -Maria Anders
+2021-03-10 10:33:15.432 INFO (thread-id:1) Framework.ExcelUtils.getTableArray (line:95) -2
+2021-03-10 10:33:15.432 INFO (thread-id:1) Framework.ExcelUtils.getTableArray (line:95) -Maria Anders
+2021-03-10 10:33:15.433 INFO (thread-id:1) Framework.ExcelUtils.getTableArray (line:95) -1
+2021-03-10 10:33:15.434 INFO (thread-id:1) Framework.ExcelUtils.getTableArray (line:95) -Alfreds Futterkiste
+2021-03-10 10:33:15.434 INFO (thread-id:1) Framework.ExcelUtils.getTableArray (line:95) -3
+2021-03-10 10:33:15.435 INFO (thread-id:1) Framework.ExcelUtils.getTableArray (line:95) -Germany
+2021-03-10 10:33:15.436 INFO (thread-id:1) Framework.ExcelUtils.getTableArray (line:95) -2
+2021-03-10 10:33:15.439 INFO (thread-id:1) Framework.ExcelUtils.getTableArray (line:95) -Roland Mendel
+2021-03-10 10:33:15.439 INFO (thread-id:1) Framework.ExcelUtils.getTableArray (line:95) -1
+2021-03-10 10:33:15.444 INFO (thread-id:1) Framework.ExcelUtils.getTableArray (line:95) -Laughing Bacchus Winecellars
+2021-03-10 10:33:15.446 INFO (thread-id:1) Framework.ExcelUtils.getTableArray (line:95) -3
+2021-03-10 10:33:15.446 INFO (thread-id:1) Framework.ExcelUtils.getTableArray (line:95) -Canada
+2021-03-10 10:33:15.511 INFO (thread-id:1) Tests.SanityTests.tableTest (line:59) -Started tableTest with inputs: 1,Alfreds Futterkiste,2,Maria Anders
+2021-03-10 10:33:15.757 INFO (thread-id:1) Pages.TablesPage.verifyTableCellText (line:56) -table's target column actual value:Maria Anders
+2021-03-10 10:33:15.758 INFO (thread-id:1) Pages.TablesPage.verifyTableCellText (line:57) -expected value:Maria Anders
+2021-03-10 10:33:15.767 INFO (thread-id:1) Tests.SanityTests.tableTest (line:59) -Started tableTest with inputs: 2,Maria Anders,1,Alfreds Futterkiste
+2021-03-10 10:33:16.101 INFO (thread-id:1) Pages.TablesPage.verifyTableCellText (line:56) -table's target column actual value:Alfreds Futterkiste
+2021-03-10 10:33:16.101 INFO (thread-id:1) Pages.TablesPage.verifyTableCellText (line:57) -expected value:Alfreds Futterkiste
+2021-03-10 10:33:16.105 INFO (thread-id:1) Tests.SanityTests.tableTest (line:59) -Started tableTest with inputs: 3,Germany,2,Roland Mendel
+2021-03-10 10:33:16.297 INFO (thread-id:1) Pages.TablesPage.verifyTableCellText (line:56) -table's target column actual value:Maria Anders
+2021-03-10 10:33:16.297 INFO (thread-id:1) Pages.TablesPage.verifyTableCellText (line:57) -expected value:Roland Mendel
+2021-03-10 10:33:16.299 INFO (thread-id:1) Tests.SanityTests.tableTest (line:69) -Test Failed
+2021-03-10 10:33:16.321 INFO (thread-id:1) Tests.SanityTests.tableTest (line:59) -Started tableTest with inputs: 1,Laughing Bacchus Winecellars,3,Canada
+2021-03-10 10:33:16.567 INFO (thread-id:1) Pages.TablesPage.verifyTableCellText (line:56) -table's target column actual value:Canada
+2021-03-10 10:33:16.567 INFO (thread-id:1) Pages.TablesPage.verifyTableCellText (line:57) -expected value:Canada
+2021-03-10 10:34:18.895 INFO (thread-id:1) Framework.GeneralUtility.getWebDriver (line:69) -Browser: chrome, Start page: https://www.w3schools.com/html/html_tables.asp
+2021-03-10 10:34:43.534 INFO (thread-id:1) Framework.GeneralUtility.getWebDriver (line:69) -Browser: chrome, Start page: https://www.w3schools.com/html/html_tables.asp
+2021-03-10 10:34:49.109 INFO (thread-id:1) Framework.ExcelUtils.getTableArray (line:95) -1
+2021-03-10 10:34:49.112 INFO (thread-id:1) Framework.ExcelUtils.getTableArray (line:95) -Alfreds Futterkiste
+2021-03-10 10:34:49.114 INFO (thread-id:1) Framework.ExcelUtils.getTableArray (line:95) -2
+2021-03-10 10:34:49.115 INFO (thread-id:1) Framework.ExcelUtils.getTableArray (line:95) -Maria Anders
+2021-03-10 10:34:49.116 INFO (thread-id:1) Framework.ExcelUtils.getTableArray (line:95) -2
+2021-03-10 10:34:49.118 INFO (thread-id:1) Framework.ExcelUtils.getTableArray (line:95) -Maria Anders
+2021-03-10 10:34:49.119 INFO (thread-id:1) Framework.ExcelUtils.getTableArray (line:95) -1
+2021-03-10 10:34:49.123 INFO (thread-id:1) Framework.ExcelUtils.getTableArray (line:95) -Alfreds Futterkiste
+2021-03-10 10:34:49.124 INFO (thread-id:1) Framework.ExcelUtils.getTableArray (line:95) -3
+2021-03-10 10:34:49.124 INFO (thread-id:1) Framework.ExcelUtils.getTableArray (line:95) -Germany
+2021-03-10 10:34:49.125 INFO (thread-id:1) Framework.ExcelUtils.getTableArray (line:95) -2
+2021-03-10 10:34:49.126 INFO (thread-id:1) Framework.ExcelUtils.getTableArray (line:95) -Roland Mendel
+2021-03-10 10:34:49.126 INFO (thread-id:1) Framework.ExcelUtils.getTableArray (line:95) -1
+2021-03-10 10:34:49.127 INFO (thread-id:1) Framework.ExcelUtils.getTableArray (line:95) -Laughing Bacchus Winecellars
+2021-03-10 10:34:49.130 INFO (thread-id:1) Framework.ExcelUtils.getTableArray (line:95) -3
+2021-03-10 10:34:49.131 INFO (thread-id:1) Framework.ExcelUtils.getTableArray (line:95) -Canada
+2021-03-10 10:34:49.173 INFO (thread-id:1) Tests.SanityTests.tableTest (line:59) -Started tableTest with inputs: 1,Alfreds Futterkiste,2,Maria Anders
+2021-03-10 10:34:49.330 INFO (thread-id:1) Pages.TablesPage.verifyTableCellText (line:56) -table's target column actual value:Maria Anders
+2021-03-10 10:34:49.331 INFO (thread-id:1) Pages.TablesPage.verifyTableCellText (line:57) -expected value:Maria Anders
+2021-03-10 10:34:49.336 INFO (thread-id:1) Tests.SanityTests.tableTest (line:59) -Started tableTest with inputs: 2,Maria Anders,1,Alfreds Futterkiste
+2021-03-10 10:34:49.437 INFO (thread-id:1) Pages.TablesPage.verifyTableCellText (line:56) -table's target column actual value:Alfreds Futterkiste
+2021-03-10 10:34:49.438 INFO (thread-id:1) Pages.TablesPage.verifyTableCellText (line:57) -expected value:Alfreds Futterkiste
+2021-03-10 10:34:49.441 INFO (thread-id:1) Tests.SanityTests.tableTest (line:59) -Started tableTest with inputs: 3,Germany,2,Roland Mendel
+2021-03-10 10:34:49.545 INFO (thread-id:1) Pages.TablesPage.verifyTableCellText (line:56) -table's target column actual value:Maria Anders
+2021-03-10 10:34:49.545 INFO (thread-id:1) Pages.TablesPage.verifyTableCellText (line:57) -expected value:Roland Mendel
+2021-03-10 10:34:49.546 INFO (thread-id:1) Tests.SanityTests.tableTest (line:69) -Test Failed
+2021-03-10 10:34:49.551 INFO (thread-id:1) Tests.SanityTests.tableTest (line:59) -Started tableTest with inputs: 1,Laughing Bacchus Winecellars,3,Canada
+2021-03-10 10:34:49.641 INFO (thread-id:1) Pages.TablesPage.verifyTableCellText (line:56) -table's target column actual value:Canada
+2021-03-10 10:34:49.641 INFO (thread-id:1) Pages.TablesPage.verifyTableCellText (line:57) -expected value:Canada
+2021-03-10 10:39:04.037 INFO (thread-id:1) Framework.GeneralUtility.getWebDriver (line:69) -Browser: chrome, Start page: https://www.w3schools.com/html/html_tables.asp
+2021-03-10 10:39:11.473 INFO (thread-id:1) Framework.ExcelUtils.getTableArray (line:95) -1
+2021-03-10 10:39:11.476 INFO (thread-id:1) Framework.ExcelUtils.getTableArray (line:95) -Alfreds Futterkiste
+2021-03-10 10:39:11.477 INFO (thread-id:1) Framework.ExcelUtils.getTableArray (line:95) -2
+2021-03-10 10:39:11.478 INFO (thread-id:1) Framework.ExcelUtils.getTableArray (line:95) -Maria Anders
+2021-03-10 10:39:11.479 INFO (thread-id:1) Framework.ExcelUtils.getTableArray (line:95) -2
+2021-03-10 10:39:11.480 INFO (thread-id:1) Framework.ExcelUtils.getTableArray (line:95) -Maria Anders
+2021-03-10 10:39:11.480 INFO (thread-id:1) Framework.ExcelUtils.getTableArray (line:95) -1
+2021-03-10 10:39:11.482 INFO (thread-id:1) Framework.ExcelUtils.getTableArray (line:95) -Alfreds Futterkiste
+2021-03-10 10:39:11.484 INFO (thread-id:1) Framework.ExcelUtils.getTableArray (line:95) -3
+2021-03-10 10:39:11.485 INFO (thread-id:1) Framework.ExcelUtils.getTableArray (line:95) -Germany
+2021-03-10 10:39:11.486 INFO (thread-id:1) Framework.ExcelUtils.getTableArray (line:95) -2
+2021-03-10 10:39:11.487 INFO (thread-id:1) Framework.ExcelUtils.getTableArray (line:95) -Roland Mendel
+2021-03-10 10:39:11.489 INFO (thread-id:1) Framework.ExcelUtils.getTableArray (line:95) -1
+2021-03-10 10:39:11.490 INFO (thread-id:1) Framework.ExcelUtils.getTableArray (line:95) -Laughing Bacchus Winecellars
+2021-03-10 10:39:11.491 INFO (thread-id:1) Framework.ExcelUtils.getTableArray (line:95) -3
+2021-03-10 10:39:11.496 INFO (thread-id:1) Framework.ExcelUtils.getTableArray (line:95) -Canada
+2021-03-10 10:39:11.596 INFO (thread-id:1) Tests.SanityTests.tableTest (line:59) -Started tableTest with inputs: 1,Alfreds Futterkiste,2,Maria Anders
+2021-03-10 10:39:11.915 INFO (thread-id:1) Pages.TablesPage.verifyTableCellText (line:56) -table's target column actual value:Maria Anders
+2021-03-10 10:39:11.916 INFO (thread-id:1) Pages.TablesPage.verifyTableCellText (line:57) -expected value:Maria Anders
+2021-03-10 10:39:11.916 INFO (thread-id:1) Tests.SanityTests.tableTest (line:76) -tableTest finished Successfully
+2021-03-10 10:39:11.924 INFO (thread-id:1) Tests.SanityTests.tableTest (line:59) -Started tableTest with inputs: 2,Maria Anders,1,Alfreds Futterkiste
+2021-03-10 10:39:12.129 INFO (thread-id:1) Pages.TablesPage.verifyTableCellText (line:56) -table's target column actual value:Alfreds Futterkiste
+2021-03-10 10:39:12.129 INFO (thread-id:1) Pages.TablesPage.verifyTableCellText (line:57) -expected value:Alfreds Futterkiste
+2021-03-10 10:39:12.130 INFO (thread-id:1) Tests.SanityTests.tableTest (line:76) -tableTest finished Successfully
+2021-03-10 10:39:12.136 INFO (thread-id:1) Tests.SanityTests.tableTest (line:59) -Started tableTest with inputs: 3,Germany,2,Roland Mendel
+2021-03-10 10:39:12.273 INFO (thread-id:1) Pages.TablesPage.verifyTableCellText (line:56) -table's target column actual value:Maria Anders
+2021-03-10 10:39:12.273 INFO (thread-id:1) Pages.TablesPage.verifyTableCellText (line:57) -expected value:Roland Mendel
+2021-03-10 10:39:12.275 INFO (thread-id:1) Tests.SanityTests.tableTest (line:70) -Test Failed
+2021-03-10 10:39:12.283 INFO (thread-id:1) Tests.SanityTests.tableTest (line:59) -Started tableTest with inputs: 1,Laughing Bacchus Winecellars,3,Canada
+2021-03-10 10:39:12.379 INFO (thread-id:1) Pages.TablesPage.verifyTableCellText (line:56) -table's target column actual value:Canada
+2021-03-10 10:39:12.379 INFO (thread-id:1) Pages.TablesPage.verifyTableCellText (line:57) -expected value:Canada
+2021-03-10 10:39:12.380 INFO (thread-id:1) Tests.SanityTests.tableTest (line:76) -tableTest finished Successfully
+2021-03-10 10:39:12.382 INFO (thread-id:1) Framework.GeneralUtility.tearDown (line:203) -Going to tear down driver
+2021-03-10 10:42:34.115 INFO (thread-id:1) Framework.GeneralUtility.getWebDriver (line:69) -Browser: chrome, Start page: https://www.w3schools.com/html/html_tables.asp
+2021-03-10 10:42:41.719 INFO (thread-id:1) Framework.ExcelUtils.getTableArray (line:95) -1
+2021-03-10 10:42:41.722 INFO (thread-id:1) Framework.ExcelUtils.getTableArray (line:95) -Alfreds Futterkiste
+2021-03-10 10:42:41.723 INFO (thread-id:1) Framework.ExcelUtils.getTableArray (line:95) -2
+2021-03-10 10:42:41.724 INFO (thread-id:1) Framework.ExcelUtils.getTableArray (line:95) -Maria Anders
+2021-03-10 10:42:41.725 INFO (thread-id:1) Framework.ExcelUtils.getTableArray (line:95) -2
+2021-03-10 10:42:41.726 INFO (thread-id:1) Framework.ExcelUtils.getTableArray (line:95) -Maria Anders
+2021-03-10 10:42:41.726 INFO (thread-id:1) Framework.ExcelUtils.getTableArray (line:95) -1
+2021-03-10 10:42:41.727 INFO (thread-id:1) Framework.ExcelUtils.getTableArray (line:95) -Alfreds Futterkiste
+2021-03-10 10:42:41.728 INFO (thread-id:1) Framework.ExcelUtils.getTableArray (line:95) -3
+2021-03-10 10:42:41.728 INFO (thread-id:1) Framework.ExcelUtils.getTableArray (line:95) -Germany
+2021-03-10 10:42:41.729 INFO (thread-id:1) Framework.ExcelUtils.getTableArray (line:95) -2
+2021-03-10 10:42:41.730 INFO (thread-id:1) Framework.ExcelUtils.getTableArray (line:95) -Roland Mendel
+2021-03-10 10:42:41.730 INFO (thread-id:1) Framework.ExcelUtils.getTableArray (line:95) -1
+2021-03-10 10:42:41.731 INFO (thread-id:1) Framework.ExcelUtils.getTableArray (line:95) -Laughing Bacchus Winecellars
+2021-03-10 10:42:41.732 INFO (thread-id:1) Framework.ExcelUtils.getTableArray (line:95) -3
+2021-03-10 10:42:41.732 INFO (thread-id:1) Framework.ExcelUtils.getTableArray (line:95) -Canada
+2021-03-10 10:42:41.779 INFO (thread-id:1) Tests.SanityTests.tableTest (line:59) -Started tableTest with inputs: 1,Alfreds Futterkiste,2,Maria Anders
+2021-03-10 10:42:41.932 INFO (thread-id:1) Tests.SanityTests.tableTest (line:76) -tableTest finished Successfully
+2021-03-10 10:42:41.937 INFO (thread-id:1) Tests.SanityTests.tableTest (line:59) -Started tableTest with inputs: 2,Maria Anders,1,Alfreds Futterkiste
+2021-03-10 10:42:42.079 INFO (thread-id:1) Tests.SanityTests.tableTest (line:76) -tableTest finished Successfully
+2021-03-10 10:42:42.083 INFO (thread-id:1) Tests.SanityTests.tableTest (line:59) -Started tableTest with inputs: 3,Germany,2,Roland Mendel
+2021-03-10 10:42:42.201 INFO (thread-id:1) Tests.SanityTests.tableTest (line:70) -Test Failed
+2021-03-10 10:42:42.210 INFO (thread-id:1) Tests.SanityTests.tableTest (line:59) -Started tableTest with inputs: 1,Laughing Bacchus Winecellars,3,Canada
+2021-03-10 10:42:42.351 INFO (thread-id:1) Tests.SanityTests.tableTest (line:76) -tableTest finished Successfully
+2021-03-10 10:42:42.354 INFO (thread-id:1) Framework.GeneralUtility.tearDown (line:203) -Going to tear down driver
+2021-03-10 10:43:49.638 INFO (thread-id:1) Framework.GeneralUtility.getWebDriver (line:69) -Browser: chrome, Start page: https://www.w3schools.com/html/html_tables.asp
+2021-03-10 10:43:57.064 INFO (thread-id:1) Framework.ExcelUtils.getTableArray (line:95) -1
+2021-03-10 10:43:57.069 INFO (thread-id:1) Framework.ExcelUtils.getTableArray (line:95) -Alfreds Futterkiste
+2021-03-10 10:43:57.070 INFO (thread-id:1) Framework.ExcelUtils.getTableArray (line:95) -2
+2021-03-10 10:43:57.071 INFO (thread-id:1) Framework.ExcelUtils.getTableArray (line:95) -Maria Anders
+2021-03-10 10:43:57.072 INFO (thread-id:1) Framework.ExcelUtils.getTableArray (line:95) -2
+2021-03-10 10:43:57.073 INFO (thread-id:1) Framework.ExcelUtils.getTableArray (line:95) -Maria Anders
+2021-03-10 10:43:57.073 INFO (thread-id:1) Framework.ExcelUtils.getTableArray (line:95) -1
+2021-03-10 10:43:57.074 INFO (thread-id:1) Framework.ExcelUtils.getTableArray (line:95) -Alfreds Futterkiste
+2021-03-10 10:43:57.075 INFO (thread-id:1) Framework.ExcelUtils.getTableArray (line:95) -3
+2021-03-10 10:43:57.076 INFO (thread-id:1) Framework.ExcelUtils.getTableArray (line:95) -Germany
+2021-03-10 10:43:57.076 INFO (thread-id:1) Framework.ExcelUtils.getTableArray (line:95) -2
+2021-03-10 10:43:57.077 INFO (thread-id:1) Framework.ExcelUtils.getTableArray (line:95) -Roland Mendel
+2021-03-10 10:43:57.078 INFO (thread-id:1) Framework.ExcelUtils.getTableArray (line:95) -1
+2021-03-10 10:43:57.079 INFO (thread-id:1) Framework.ExcelUtils.getTableArray (line:95) -Laughing Bacchus Winecellars
+2021-03-10 10:43:57.080 INFO (thread-id:1) Framework.ExcelUtils.getTableArray (line:95) -3
+2021-03-10 10:43:57.080 INFO (thread-id:1) Framework.ExcelUtils.getTableArray (line:95) -Canada
+2021-03-10 10:44:06.071 INFO (thread-id:1) Tests.SanityTests.tableTest (line:59) -Started tableTest with inputs: 1,Alfreds Futterkiste,2,Maria Anders
+2021-03-10 10:45:33.358 INFO (thread-id:1) Framework.GeneralUtility.getWebDriver (line:69) -Browser: chrome, Start page: https://www.w3schools.com/html/html_tables.asp
+2021-03-10 10:45:39.569 INFO (thread-id:1) Framework.ExcelUtils.getTableArray (line:95) -1
+2021-03-10 10:45:39.576 INFO (thread-id:1) Framework.ExcelUtils.getTableArray (line:95) -Alfreds Futterkiste
+2021-03-10 10:45:39.577 INFO (thread-id:1) Framework.ExcelUtils.getTableArray (line:95) -2
+2021-03-10 10:45:39.578 INFO (thread-id:1) Framework.ExcelUtils.getTableArray (line:95) -Maria Anders
+2021-03-10 10:45:39.579 INFO (thread-id:1) Framework.ExcelUtils.getTableArray (line:95) -2
+2021-03-10 10:45:39.580 INFO (thread-id:1) Framework.ExcelUtils.getTableArray (line:95) -Maria Anders
+2021-03-10 10:45:39.581 INFO (thread-id:1) Framework.ExcelUtils.getTableArray (line:95) -1
+2021-03-10 10:45:39.582 INFO (thread-id:1) Framework.ExcelUtils.getTableArray (line:95) -Alfreds Futterkiste
+2021-03-10 10:45:39.582 INFO (thread-id:1) Framework.ExcelUtils.getTableArray (line:95) -3
+2021-03-10 10:45:39.583 INFO (thread-id:1) Framework.ExcelUtils.getTableArray (line:95) -Germany
+2021-03-10 10:45:39.585 INFO (thread-id:1) Framework.ExcelUtils.getTableArray (line:95) -2
+2021-03-10 10:45:39.586 INFO (thread-id:1) Framework.ExcelUtils.getTableArray (line:95) -Roland Mendel
+2021-03-10 10:45:39.587 INFO (thread-id:1) Framework.ExcelUtils.getTableArray (line:95) -1
+2021-03-10 10:45:39.587 INFO (thread-id:1) Framework.ExcelUtils.getTableArray (line:95) -Laughing Bacchus Winecellars
+2021-03-10 10:45:39.589 INFO (thread-id:1) Framework.ExcelUtils.getTableArray (line:95) -3
+2021-03-10 10:45:39.590 INFO (thread-id:1) Framework.ExcelUtils.getTableArray (line:95) -Canada
+2021-03-10 10:45:39.668 INFO (thread-id:1) Tests.SanityTests.tableTest (line:59) -Started tableTest with inputs: 1,Alfreds Futterkiste,2,Maria Anders
+2021-03-10 10:45:40.297 INFO (thread-id:1) Tests.SanityTests.tableTest (line:76) -tableTest finished Successfully
+2021-03-10 10:45:40.306 INFO (thread-id:1) Tests.SanityTests.tableTest (line:59) -Started tableTest with inputs: 2,Maria Anders,1,Alfreds Futterkiste
+2021-03-10 10:45:40.465 INFO (thread-id:1) Tests.SanityTests.tableTest (line:76) -tableTest finished Successfully
+2021-03-10 10:45:40.469 INFO (thread-id:1) Tests.SanityTests.tableTest (line:59) -Started tableTest with inputs: 3,Germany,2,Roland Mendel
+2021-03-10 10:45:40.580 INFO (thread-id:1) Pages.TablesPage.verifyTableCellText (line:60) -Failed while searching the table
+2021-03-10 10:45:40.580 INFO (thread-id:1) Pages.TablesPage.verifyTableCellText (line:61) -table's target column actual value:Maria Anders
+2021-03-10 10:45:40.581 INFO (thread-id:1) Pages.TablesPage.verifyTableCellText (line:62) -expected value:Roland Mendel
+2021-03-10 10:45:40.582 INFO (thread-id:1) Tests.SanityTests.tableTest (line:70) -Test Failed
+2021-03-10 10:45:40.592 INFO (thread-id:1) Tests.SanityTests.tableTest (line:59) -Started tableTest with inputs: 1,Laughing Bacchus Winecellars,3,Canada
+2021-03-10 10:45:41.482 INFO (thread-id:1) Tests.SanityTests.tableTest (line:76) -tableTest finished Successfully
+2021-03-10 10:45:41.485 INFO (thread-id:1) Framework.GeneralUtility.tearDown (line:203) -Going to tear down driver
+2021-03-10 10:51:43.120 INFO (thread-id:1) Framework.GeneralUtility.getWebDriver (line:71) -Browser: chrome, Start page: https://www.w3schools.com/html/html_tables.asp
+2021-03-10 10:51:54.992 INFO (thread-id:1) Framework.ExcelUtils.getTableArray (line:95) -1
+2021-03-10 10:51:54.998 INFO (thread-id:1) Framework.ExcelUtils.getTableArray (line:95) -Alfreds Futterkiste
+2021-03-10 10:51:55.001 INFO (thread-id:1) Framework.ExcelUtils.getTableArray (line:95) -2
+2021-03-10 10:51:55.004 INFO (thread-id:1) Framework.ExcelUtils.getTableArray (line:95) -Maria Anders
+2021-03-10 10:51:55.052 INFO (thread-id:1) Framework.ExcelUtils.getTableArray (line:95) -2
+2021-03-10 10:51:55.068 INFO (thread-id:1) Framework.ExcelUtils.getTableArray (line:95) -Maria Anders
+2021-03-10 10:51:55.070 INFO (thread-id:1) Framework.ExcelUtils.getTableArray (line:95) -1
+2021-03-10 10:51:55.072 INFO (thread-id:1) Framework.ExcelUtils.getTableArray (line:95) -Alfreds Futterkiste
+2021-03-10 10:51:55.076 INFO (thread-id:1) Framework.ExcelUtils.getTableArray (line:95) -3
+2021-03-10 10:51:55.077 INFO (thread-id:1) Framework.ExcelUtils.getTableArray (line:95) -Germany
+2021-03-10 10:51:55.078 INFO (thread-id:1) Framework.ExcelUtils.getTableArray (line:95) -2
+2021-03-10 10:51:55.080 INFO (thread-id:1) Framework.ExcelUtils.getTableArray (line:95) -Roland Mendel
+2021-03-10 10:51:55.081 INFO (thread-id:1) Framework.ExcelUtils.getTableArray (line:95) -1
+2021-03-10 10:51:55.083 INFO (thread-id:1) Framework.ExcelUtils.getTableArray (line:95) -Laughing Bacchus Winecellars
+2021-03-10 10:51:55.084 INFO (thread-id:1) Framework.ExcelUtils.getTableArray (line:95) -3
+2021-03-10 10:51:55.086 INFO (thread-id:1) Framework.ExcelUtils.getTableArray (line:95) -Canada
+2021-03-10 10:51:55.317 INFO (thread-id:1) Tests.SanityTests.tableTest (line:59) -Started tableTest with inputs: 1,Alfreds Futterkiste,2,Maria Anders
+2021-03-10 10:51:57.130 INFO (thread-id:1) Tests.SanityTests.tableTest (line:77) -tableTest finished Successfully
+2021-03-10 10:51:57.138 INFO (thread-id:1) Tests.SanityTests.tableTest (line:59) -Started tableTest with inputs: 2,Maria Anders,1,Alfreds Futterkiste
+2021-03-10 10:52:16.317 INFO (thread-id:1) Tests.SanityTests.tableTest (line:77) -tableTest finished Successfully
+2021-03-10 10:52:16.325 INFO (thread-id:1) Tests.SanityTests.tableTest (line:59) -Started tableTest with inputs: 3,Germany,2,Roland Mendel
+2021-03-10 10:52:16.987 INFO (thread-id:1) Pages.TablesPage.verifyTableCellText (line:60) -Failed while searching the table
+2021-03-10 10:52:16.987 INFO (thread-id:1) Pages.TablesPage.verifyTableCellText (line:61) -table's target column actual value:Maria Anders
+2021-03-10 10:52:16.988 INFO (thread-id:1) Pages.TablesPage.verifyTableCellText (line:62) -expected value:Roland Mendel
+2021-03-10 10:52:16.990 INFO (thread-id:1) Tests.SanityTests.tableTest (line:71) -Test Failed
+2021-03-10 10:52:17.012 INFO (thread-id:1) Tests.SanityTests.tableTest (line:59) -Started tableTest with inputs: 1,Laughing Bacchus Winecellars,3,Canada
+2021-03-10 10:52:17.362 INFO (thread-id:1) Tests.SanityTests.tableTest (line:77) -tableTest finished Successfully
+2021-03-10 10:52:17.366 INFO (thread-id:1) Framework.GeneralUtility.tearDown (line:206) -Going to tear down driver
+2021-03-10 11:16:57.615 INFO (thread-id:1) Framework.MailAPI.readMailItem (line:68) -Subject is: פורים שמח
+2021-03-10 11:16:57.925 INFO (thread-id:1) Framework.MailAPI.readMailItem (line:69) -Contents is: 
+פורים שמח
+
+מכל צוות תנופה - רימונים
+
+
+2021-03-10 11:21:34.507 INFO (thread-id:1) Framework.MailAPI.readMailItem (line:68) -Subject is: פורים שמח
+2021-03-10 11:21:34.795 INFO (thread-id:1) Framework.MailAPI.readMailItem (line:69) -Contents is: 
+פורים שמח
+
+מכל צוות תנופה - רימונים
+
+
+2021-03-10 11:21:45.987 INFO (thread-id:1) Framework.GeneralUtility.getWebDriver (line:71) -Browser: chrome, Start page: https://www.w3schools.com/html/html_tables.asp
+2021-03-10 11:21:52.167 INFO (thread-id:1) Framework.ExcelUtils.getTableArray (line:82) -1
+2021-03-10 11:21:52.170 INFO (thread-id:1) Framework.ExcelUtils.getTableArray (line:82) -Alfreds Futterkiste
+2021-03-10 11:21:52.172 INFO (thread-id:1) Framework.ExcelUtils.getTableArray (line:82) -2
+2021-03-10 11:21:52.173 INFO (thread-id:1) Framework.ExcelUtils.getTableArray (line:82) -Maria Anders
+2021-03-10 11:21:52.174 INFO (thread-id:1) Framework.ExcelUtils.getTableArray (line:82) -2
+2021-03-10 11:21:52.175 INFO (thread-id:1) Framework.ExcelUtils.getTableArray (line:82) -Maria Anders
+2021-03-10 11:21:52.178 INFO (thread-id:1) Framework.ExcelUtils.getTableArray (line:82) -1
+2021-03-10 11:21:52.178 INFO (thread-id:1) Framework.ExcelUtils.getTableArray (line:82) -Alfreds Futterkiste
+2021-03-10 11:21:52.181 INFO (thread-id:1) Framework.ExcelUtils.getTableArray (line:82) -3
+2021-03-10 11:21:52.181 INFO (thread-id:1) Framework.ExcelUtils.getTableArray (line:82) -Germany
+2021-03-10 11:21:52.182 INFO (thread-id:1) Framework.ExcelUtils.getTableArray (line:82) -2
+2021-03-10 11:21:52.183 INFO (thread-id:1) Framework.ExcelUtils.getTableArray (line:82) -Roland Mendel
+2021-03-10 11:21:52.184 INFO (thread-id:1) Framework.ExcelUtils.getTableArray (line:82) -1
+2021-03-10 11:21:52.184 INFO (thread-id:1) Framework.ExcelUtils.getTableArray (line:82) -Laughing Bacchus Winecellars
+2021-03-10 11:21:52.185 INFO (thread-id:1) Framework.ExcelUtils.getTableArray (line:82) -3
+2021-03-10 11:21:52.185 INFO (thread-id:1) Framework.ExcelUtils.getTableArray (line:82) -Canada
+2021-03-10 11:21:52.242 INFO (thread-id:1) Tests.SanityTests.tableTest (line:59) -Started tableTest with inputs: 1,Alfreds Futterkiste,2,Maria Anders
+2021-03-10 11:21:52.403 INFO (thread-id:1) Tests.SanityTests.tableTest (line:77) -tableTest finished Successfully
+2021-03-10 11:21:52.409 INFO (thread-id:1) Tests.SanityTests.tableTest (line:59) -Started tableTest with inputs: 2,Maria Anders,1,Alfreds Futterkiste
+2021-03-10 11:21:52.552 INFO (thread-id:1) Tests.SanityTests.tableTest (line:77) -tableTest finished Successfully
+2021-03-10 11:21:52.556 INFO (thread-id:1) Tests.SanityTests.tableTest (line:59) -Started tableTest with inputs: 3,Germany,2,Roland Mendel
+2021-03-10 11:21:52.663 INFO (thread-id:1) Pages.TablesPage.verifyTableCellText (line:57) -Failed while searching the table
+2021-03-10 11:21:52.664 INFO (thread-id:1) Pages.TablesPage.verifyTableCellText (line:58) -table's target column actual value:Maria Anders
+2021-03-10 11:21:52.664 INFO (thread-id:1) Pages.TablesPage.verifyTableCellText (line:59) -expected value:Roland Mendel
+2021-03-10 11:21:52.665 INFO (thread-id:1) Tests.SanityTests.tableTest (line:71) -Test Failed
+2021-03-10 11:21:52.673 INFO (thread-id:1) Tests.SanityTests.tableTest (line:59) -Started tableTest with inputs: 1,Laughing Bacchus Winecellars,3,Canada
+2021-03-10 11:21:52.853 INFO (thread-id:1) Tests.SanityTests.tableTest (line:77) -tableTest finished Successfully
+2021-03-10 11:21:52.855 INFO (thread-id:1) Framework.GeneralUtility.tearDown (line:206) -Going to tear down driver
